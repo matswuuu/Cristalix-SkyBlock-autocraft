@@ -2,7 +2,7 @@
 Программа для автокрафта вещей на Skyblock Cristalix.
   
 ## .exe версия:
-  [Скачать](https://github.com/matswuuu/Discord-AutoPost-CristalixModded/releases/download/v0.0.2/AutoPost.zip) и запустить main.exe
+  [Скачать](https://github.com/matswuuu/Cristalix-SkyBlock-autocraft/releases/download/v0.0.1/craft.exe) и запустить main.exe
  
 ### .py версия:
   Для работы необходим [Python 3](https://www.python.org/downloads/), дополнительные библиотеки
